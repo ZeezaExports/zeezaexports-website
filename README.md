@@ -1,2 +1,2 @@
-# zeezaexports-website
-Official website of Zeeza Exports – wholesale textile manufacturing and global supply.
+# zeeza-exports
+Wholesale Textile Website
